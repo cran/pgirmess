@@ -1,6 +1,6 @@
 Package: pgirmess
-Version: 1.7.0
-Date: 2021-03-05
+Version: 1.7.1
+Date: 2021-12-10
 Title: Spatial Analysis and Data Mining for Field Ecologists
 Authors@R: c(person("Patrick", "Giraudoux", role = c("aut", "cre"), email = "patrick.giraudoux@univ-fcomte.fr"), person("Jean-Philippe", "Antonietti", role = c("ctb"), email = "Jean-Philippe.Antonietti@unil.ch"), person("Colin", "Beale", role = c("ctb"), email = "c.beale@macaulay.ac.uk"),person("Renaud", "Lancelot", role = c("ctb"), email = "renaud.lancelot@cirad.fr"), person("David", "Pleydell", role = c("ctb"), email = "david.pleydell@inra.fr"), person("Mike", "Treglia", role = c("ctb"), email = "mike-treglia@utulsa.edu"))
 Author: Patrick Giraudoux [aut, cre],
@@ -18,6 +18,6 @@ Suggests: MASS (>= 7.3-1), nlme (>= 3.1-120)
 License: GPL (>= 2)
 URL: https://giraudoux.pagesperso-orange.fr
 NeedsCompilation: no
-Packaged: 2021-04-05 13:05:47 UTC; pgiraudo2
+Packaged: 2021-12-10 13:48:49 UTC; pgiraudo2
 Repository: CRAN
-Date/Publication: 2021-04-05 13:50:08 UTC
+Date/Publication: 2021-12-10 16:00:07 UTC
