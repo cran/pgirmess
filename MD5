@@ -1,4 +1,4 @@
-c61543ba1483424db643fd1da3e3d518 *DESCRIPTION
+f3256ac27d1bb61de6f3e8b62cdc1b8b *DESCRIPTION
 67adb8bb2f62a99763cfb732d257944f *NAMESPACE
 34ce7b62d09ece67de8e732dbd56f1c4 *R/CI.r
 a8181a66584bc3024b6134a64b628b02 *R/PermTest.r
@@ -20,7 +20,7 @@ d2cb30ab0ff7e00cf3edeacd303f64c6 *R/distNode.r
 a6965ef004850243c7b75c6124aa127f *R/expandpoly.r
 edcf3115e218e26942a109fdb49e7d5a *R/findR.R
 d015ec71c26f93c6fabc388fa72a7fbf *R/friedmanmc.R
-ebfd53526d26ca59ddfec59c14e65bf0 *R/kruskalmc.r
+a4e07b2cf12949dd17ddb5cd15ca2f79 *R/kruskalmc.r
 1480837a6bdbaa936a67d77538321841 *R/ks.gof.R
 53b34657c6476e0f93ec09b030326598 *R/mergeTrackObs.r
 b92383a945e873da4d2421cfe5b0c9c3 *R/pairsrp.R
@@ -64,8 +64,8 @@ a536d26d5773f820d314702f722ff2e7 *man/distNNeigh.rd
 81e61c0fbc1dccdd8b4a749b430196cc *man/distTot.rd
 0cd033d3b1d7e47858b910aedafaa42a *man/expandpoly.rd
 61f4afbf5e6a790e7eb18f997acc131e *man/findR.rd
-d6464671b307389259aac7e20b4c9a6b *man/friedmanmc.rd
-d95c2c3c8574d81f1347dfba90e19f0c *man/kruskalmc.Rd
+d4a8232e8d8e30b02edda6f8218141f1 *man/friedmanmc.rd
+8ef0824cf2d7b437ae09decd16febf57 *man/kruskalmc.Rd
 48d0679d82c78e9706fecf09f25a097a *man/ks.gof.rd
 44e1f15095ba0b8d61df25233885ccea *man/mergeTrackObs.rd
 3894f4c1003036be9f3d96c15ac419fa *man/pairsrp.rd
