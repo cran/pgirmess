@@ -1,4 +1,4 @@
-f3256ac27d1bb61de6f3e8b62cdc1b8b *DESCRIPTION
+628e6b112515ffa8a4ab16ade87cddc5 *DESCRIPTION
 67adb8bb2f62a99763cfb732d257944f *NAMESPACE
 34ce7b62d09ece67de8e732dbd56f1c4 *R/CI.r
 a8181a66584bc3024b6134a64b628b02 *R/PermTest.r
@@ -43,8 +43,8 @@ ea8982bea488eeb51c9b13673a34b1c0 *R/transLines2pix.r
 62d88d6d6f963174452a73f4998f40db *R/val4symb.R
 a91113541a08a330b20bf17b083c8033 *R/write.delim.R
 ec7f9ec5e36a17b5ed0ca9a71fce205b *R/writecn.delim.r
-4ec823cdaadd3657b30e382be22941b4 *data/preybiom.rda
-5b3fd989016308337e72f9f958f8f18d *data/siegelp179.rda
+0eda7df73935a4c336d32a3723e4a315 *data/preybiom.rda
+0214a24bd1ec4d904afc4099458f72fc *data/siegelp179.rda
 408f0ab5bba31b1378c36827a89ec1b9 *man/CI.rd
 ffd3bcd74366db73621c09bd16e51c35 *man/PermTest.rd
 f8473822eaffe2fced8d3a93b602a989 *man/Segments.rd
@@ -56,8 +56,8 @@ cffa91754a92c69833369ea0358deaee *man/classnum.rd
 021bbf69f3347e4d1f9e00110c777d70 *man/date2winter.rd
 7d9470e7ccf0ebc9e8836120570ea06e *man/diag2edge.rd
 5ff82072783ae5087b65a152617d870b *man/difshannonbio.rd
-0829777a55e38bc0ad5afc842cb1be02 *man/dirProj.rd
-188bf13e6b866833213b51570f3d8e8a *man/dirSeg.rd
+85f10894c0930149e3a46c02e0eb9491 *man/dirProj.rd
+ba70199616bd71187e95029a92c796bb *man/dirSeg.rd
 a536d26d5773f820d314702f722ff2e7 *man/distNNeigh.rd
 27225a80d8d066e3d0a1619d68639a61 *man/distNode.rd
 655079c7a2debc6792e1d0ab340b6169 *man/distSeg.rd
@@ -67,9 +67,9 @@ a536d26d5773f820d314702f722ff2e7 *man/distNNeigh.rd
 d4a8232e8d8e30b02edda6f8218141f1 *man/friedmanmc.rd
 8ef0824cf2d7b437ae09decd16febf57 *man/kruskalmc.Rd
 48d0679d82c78e9706fecf09f25a097a *man/ks.gof.rd
-44e1f15095ba0b8d61df25233885ccea *man/mergeTrackObs.rd
+0884d896e5954ecf2c978785d8357ad3 *man/mergeTrackObs.rd
 3894f4c1003036be9f3d96c15ac419fa *man/pairsrp.rd
-f39134dbd98b54b4502f7b0e7f652869 *man/pave.rd
+9ddae0f2ba630ca4e8ab779ea45f5a1e *man/pave.rd
 e44a3063a3bfbe368cb4d62da989be84 *man/permcont.rd
 5ba44c9027ea080424d28a4bfb466a5d *man/piankabio.rd
 83f2e97da8e00404c1631788f9299d55 *man/piankabioboot.rd
@@ -77,7 +77,7 @@ e44a3063a3bfbe368cb4d62da989be84 *man/permcont.rd
 0c5b4c3742347653621df8264ff01a65 *man/polycirc2.rd
 86a085b544573ed2b5dee52582bf5402 *man/preybiom.rd
 a852c753f560e79d72540d2d87aba320 *man/print.mc.rd
-341ed92dab4b9214a4eba370ef9fef68 *man/selMod.rd
+23cba5d0963f62df9881a0cb24e5b547 *man/selMod.rd
 28918aa3db60feac2e812ee1e3bc4d4d *man/shannon.rd
 64347387ca9e409208d2295899880738 *man/shannonbio.rd
 5ed87020b4c63a1b46c2e81c37d484c0 *man/shannonbioboot.rd
